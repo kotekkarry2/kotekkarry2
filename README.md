@@ -1,4 +1,4 @@
-![logo](https://github.com/kotekkarry2/kotekkarry2/blob/main/Make%20your%20README%20(1).png)
+![logo](https://github.com/kotekkarry2/kotekkarry2/blob/main/gitProgile.jpg)
 <h1 align="center">Hi 👋, I'm Developer</h1>
 
 
