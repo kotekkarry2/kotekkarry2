@@ -83,5 +83,5 @@
   
 ## Codewars && Leetcode 
 
-- View my solutions on codewars: (https://github.com/kotekkarry2/codewars-)
+- View my solutions on codewars: <a href="https://github.com/kotekkarry2/codewars-" target="_blank">CodeWars</a>
 <img src='https://github.com/kotekkarry2/kotekkarry2/blob/main/codewars.png' alt='codewars' />
