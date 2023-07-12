@@ -1,8 +1,6 @@
 ![logo](https://github.com/kotekkarry2/kotekkarry2/blob/main/gitProgile.jpg)
 <h1 align="center">Hi 👋, I'm Developer</h1>
 
-
-### <div align="center">My passion is solving complex problems and a creative approach to solving them </div>  
   
 
 - 🔭 I've been learning web development for over two years now.
