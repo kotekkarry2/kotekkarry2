@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Developer</h1>
-<h3 align="center">There was a day when I programmed continuously for 20 hours</h3>
+<h3 align="center">My passion is solving complex problems and a creative approach to solving them</h3>
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- ⚡ Fun fact [There was a day when I programmed continuously for 20 hours](There was a day when I programmed continuously for 20 hours)
+- ⚡ Fun fact There was a day when I programmed continuously for 20 hours
 
 - 💬 Ask me about **everything**
 
